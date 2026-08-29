@@ -1,6 +1,7 @@
 #include <iostream>
 
 // Varredura de memória (MemoryScan) busca de Padrões.
+// Usando apenas o tipo in
 
 /*
     Tentando simular ferramentas de segurança ou trapaças de jogos que vasculham a memória atrás de um valor específico
