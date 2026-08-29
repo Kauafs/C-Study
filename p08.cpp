@@ -1,7 +1,7 @@
 #include <iostream>
 
 // Varredura de memória (MemoryScan) busca de Padrões.
-// Usando apenas o tipo in
+// Usando apenas o tipo int
 
 /*
     Tentando simular ferramentas de segurança ou trapaças de jogos que vasculham a memória atrás de um valor específico
@@ -9,7 +9,7 @@
 
 int userInput()
 {
-    std::cout << "Informe a senha: ";
+    std::cout << "Enter password: ";
     int input{};
     std::cin >> input;
 
