@@ -14,5 +14,3 @@ This repository showcases practical implementations of low-level software securi
 - **Compilers:** MSVC (Visual Studio) / GCC / Clang
 - **OS Focus:** Windows x64 & Linux
 
-## ⚠️ Disclaimer
-All code contained in this repository is created strictly for educational purposes, defensive security research, and proof-of-concept analysis.
